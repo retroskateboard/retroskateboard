@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Rojas Pech Eric
+- 🌱 I’m currently learning computer engineering
+- 📫 How to reach me on instagram: @retroskateboard
