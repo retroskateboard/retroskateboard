@@ -1,3 +1,4 @@
 - 👋 Hi, I’m Rojas Pech Eric
+- 👨🏻‍💻 Excited to keep learning in Swift!
 - 🌱 I’m currently learning computer engineering
 - 📫 How to reach me on instagram: @retroskateboard
