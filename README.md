@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Rojas Pech Eric
+# 👋 Hi, welcome to my GitHub!
 
 Welcome to my GitHub! I'm Rojas Pech Eric, a passionate learner in the world of Swift programming. Aspiring computer engineer, I am constantly seeking new knowledge and skills to grow in the tech industry.
 
