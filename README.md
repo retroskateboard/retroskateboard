@@ -12,9 +12,10 @@ I'm Rojas Pech Eric, a passionate learner in the world of Swift programming. Asp
 
 ## 📫 How to Reach Me
 
+- [ericrokerz@gmail.com](mailto:ericrokerz@gmail.com)
 - Instagram: [@retroskateboard](https://www.instagram.com/retroskateboard)
 
-Feel free to connect with me on Instagram, where I often share my coding journey, adventures, and other interesting stuff.
+Feel free to connect with me on Instagram, where I often share my adventures, and other interesting stuff.
 
 ## 🛠️ Projects
 
