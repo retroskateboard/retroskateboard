@@ -5,7 +5,7 @@ I'm Rojas Pech Eric, a passionate learner in the world of Swift programming. Asp
 ## 👨🏻‍💻 About Me
 
 - 💻 Currently pursuing a degree in computer engineering.
-- 🎓 Currently enrolled in the [iOS Development Lab Diploma](http://ioslab.ingenieria.unam.mx/diplomado.html) at UNAM, Mexico.
+- 🎓 Currently enrolled in the iOS Development Lab Diploma at UNAM, Mexico.
 - 🌱 Enthusiastically learning and exploring the Swift programming language.
 - 🎮 Gaming enthusiast.
 - 💼 Intern at BBVA - CBI Finance MX, focusing on cost management, broker invoice management, database administration, Excel file optimization, and travel allowances expense approval.
