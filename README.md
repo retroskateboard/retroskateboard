@@ -30,11 +30,9 @@ Here are some of the Swift projects you can find in my repositories:
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=retroskateboard&show_icons=true) 
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=retroskateboard&layout=compact)
 
-
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=retroskateboard&show_icons=true) 
 
 Feel free to explore my repositories, contribute, and learn together. Happy coding! 🚀
 
