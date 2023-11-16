@@ -37,3 +37,5 @@ Here are some of the Swift projects you can find in my repositories:
 Feel free to explore my repositories, contribute, and learn together. Happy coding! 🚀
 
 > "Every day is a chance to learn something new and grow a little wiser."
+> 
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Eric%20Rojas%20👨‍💻&width=400&height=200)](https://github.com/Akshay090/svg-banners)
