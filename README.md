@@ -21,11 +21,13 @@ Feel free to connect with me on Instagram, where I often share my adventures, an
 
 Here are some of the Swift projects you can find in my repositories:
 
-1. [LampOn](https://github.com/retroskateboard/LampOn): LampOn is a captivating virtual lamp experience for iOS devices. This application simulates the simple pleasure of turning a lamp on and off, complete with realistic visuals and haptic feedback. LampOn not only offers a delightful relaxation tool but also serves as a showcase of your device's capabilities. Explore the joy of lamp with LampOn!
+1. [RGB Explorer](https://github.com/retroskateboard/RGB-Explorer): RGB Explorer is an application designed to give users a hands-on experience in exploring and adjusting RGB colors. With three sliders representing the Red, Green, and Blue color components, users can interactively experiment with different color combinations and witness real-time background color updates.
 
-2. [Drawnee](https://github.com/retroskateboard/Drawnee): Drawnee is an innovative drawing application designed for iOS devices. It allows users to practice their drawing skills by replicating reference images and provides valuable feedback on their progress. With a variety of drawing tools and colors, Drawnee empowers users to unleash their creativity and improve their artistry.
+2. [LampOn](https://github.com/retroskateboard/LampOn): LampOn is a captivating virtual lamp experience for iOS devices. This application simulates the simple pleasure of turning a lamp on and off, complete with realistic visuals and haptic feedback. LampOn not only offers a delightful relaxation tool but also serves as a showcase of your device's capabilities. Explore the joy of lamp with LampOn!
 
-3. [AguApp-MX](https://github.com/retroskateboard/AguApp-MX): AguApp MX is a social service project aimed at raising awareness and fostering responsibility in the use of water in Mexico. This mobile application provides valuable insights and interactive challenges to promote responsible water consumption and conservation efforts. Join us in protecting this invaluable resource for a sustainable future.
+3. [Drawnee](https://github.com/retroskateboard/Drawnee): Drawnee is an innovative drawing application designed for iOS devices. It allows users to practice their drawing skills by replicating reference images and provides valuable feedback on their progress. With a variety of drawing tools and colors, Drawnee empowers users to unleash their creativity and improve their artistry.
+
+4. [AguApp-MX](https://github.com/retroskateboard/AguApp-MX): AguApp MX is a social service project aimed at raising awareness and fostering responsibility in the use of water in Mexico. This mobile application provides valuable insights and interactive challenges to promote responsible water consumption and conservation efforts. Join us in protecting this invaluable resource for a sustainable future.
 
 
 ## 📈 GitHub Stats
